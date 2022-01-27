@@ -2,4 +2,5 @@
 code and data for blog post relating to energy companies going bust in UK 21/22
 
 
-<iframe src="https://github.com/johnmackintosh/energy-closures/blob/main/sankeyEnergy.html" height="600px" width="100%" style="border:none;"></iframe>
+
+![sankey](https://user-images.githubusercontent.com/3278367/151382134-18139844-a355-405c-998a-3f338a65be21.png)
